@@ -1,0 +1,40 @@
+.stik {
+ 
+  position: sticky;
+  top: 0;
+  background-color: rgb(17, 0, 255);
+  font-size: 27px;
+  opacity:90%;
+  color: white;
+  font-weight: bold;
+ 
+
+}
+li{
+font-size: 40px;
+
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 600px;	
+  margin-top: -10px;
+}
+
+.inp{
+	font-size: 31px;
+  color:rgb(4, 0, 255);
+  font-weight: bold;
+  margin-left: 28px;
+}
+
+.welcome {
+      
+  font-family:Eras Demi ITC ;
+ margin-top:20px;
+  width:100%;
+  text-align: center;
+  color:#313131;
+  font-size:80px;
+  font-weight: bold;
+  -webkit-animation:colorchange 3s infinite alternate;
+}
